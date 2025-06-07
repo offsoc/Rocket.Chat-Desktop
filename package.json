@@ -128,7 +128,7 @@
     "patch-package": "~8.0.0",
     "prettier": "~3.2.5",
     "puppeteer": "23.1.1",
-    "rollup": "~4.41.1",
+    "rollup": "~4.42.0",
     "rollup-plugin-copy": "~3.5.0",
     "ts-jest": "~29.1.4",
     "ts-node": "~10.9.2",
